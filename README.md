@@ -1,3 +1,3 @@
 # Club-opener 
 
-Search opened clubs app
+Search "Club opening hours" hybrid app
